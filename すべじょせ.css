@@ -1,0 +1,13 @@
+@chareset "UTF-8";
+
+h1{
+    color: blue;
+    border-bottom: 1px solid blue;
+}
+
+
+body {
+   background-color: #F2F2F2;
+}
+
+
