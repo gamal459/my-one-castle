@@ -1,13 +1,73 @@
 @chareset "UTF-8";
 
 h1{
-    color: blue;
-    border-bottom: 1px solid blue;
+    color: #41519b;     
+    border-bottom: 1px solid #006fb3;
+    text-shadow: 5px 8px 20px skyblue;
+　　
 }
+
+h2{
+    color: #389723;
+    border-bottom: 1px solid #006fb3;
+    font-weight: 400;
+    font-size: 32px;
+}
+
 
 
 body {
    background-color: #F2F2F2;
 }
+
+
+
+.red{ 
+      color: red;
+}
+
+
+#blue{
+      color: blue;
+}
+
+
+div.container p {
+     color: #008000;
+}
+
+
+/*以下、すべじょせ7実験体*/
+
+
+.box3 {
+        background: #d4f7bc;
+        border: 1px solid black;
+        padding: 15px;
+        margin: 40px auto;
+        border-radius: 10px
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
